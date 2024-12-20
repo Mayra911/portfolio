@@ -2,6 +2,8 @@
 
 #### Technical Skills: Python, SQL, Data Analysis • Data Visualization • Tableau
 
+![Data-Analysis](https://github.com/Mayra911/portfolio/blob/main/assets/Data-Analysis.png)
+
 ## Education
 - Certified in Data Science and AI - Institute of Data (Virginia Commonwealth U accredited)  | In Progress - Feb 2025								       		
 - Master in Management - University of Phoenix | January 2016
