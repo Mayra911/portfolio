@@ -2,8 +2,6 @@
 
 #### Technical Skills: Python, SQL, Data Analysis • Data Visualization • Tableau
 
-![Data-Analysis](https://github.com/Mayra911/portfolio/blob/main/assets/Data-Analysis.png)
-
 ## Education
 - Certified in Data Science and AI - Institute of Data (Virginia Commonwealth U accredited)  | In Progress - Feb 2025								       		
 - Master in Management - University of Phoenix | January 2016
@@ -11,6 +9,8 @@
 - Lean Six Sigma Black Belt Certificate | December 2022
 - PMP Exam Course -  TIA Education | 2023
 - Certification in Data Visualisation: Empowering Business with Effective Insights - TATA The Forage | December 2024
+
+![Data-Analysis](https://github.com/Mayra911/portfolio/blob/main/assets/Data-Analysis.png)
 
 ## Projects
 ### USA Olympics Participation in 100 years
