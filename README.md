@@ -10,7 +10,7 @@
 - PMP Exam Course -  TIA Education | 2023
 - Certification in Data Visualisation: Empowering Business with Effective Insights - TATA The Forage | December 2024
 
-![Data-Analysis](/assets/Data-Analysis.png)
+![Data-Analysis](assets/Data-Analysis2.png)
 
 ## Projects
 ### USA Olympics Participation in 100 years
